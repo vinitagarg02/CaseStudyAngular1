@@ -1,0 +1,13 @@
+ngb-pagination ::ng-deep .page-item.active .page-link{
+
+
+    z-index: 3;
+    border-color: black;
+  background-color: lightgrey;
+  
+}
+
+ngb-pagination ::ng-deep a {
+    color: black 
+  }
+  
